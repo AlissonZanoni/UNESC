@@ -1,0 +1,17 @@
+<resources>
+    <!-- Strings da tela LOGIN-->
+    <string name="app_name">UNESC</string>
+    <string name="hintMatricula">Matrícula</string>
+    <string name="hintSenha">Senha</string>
+    <string name="btnEntrar">ENTRAr</string>
+
+
+    <!-- Stringd da tela Home -->
+    <string name="tvOla">Olá,</string>
+    <string name="tvBoasVindas">Bem vindo a UNESC</string>
+    <string name="tvNome">Alisson Zanoni</string>
+    <string name="imgMinhasAultas">Minhas Aulas</string>
+    <string name="imgProvas">Provas</string>
+    <string name="imgAtividades">Atividades</string>
+    <string name="imgEventos">Eventos</string>
+</resources>
