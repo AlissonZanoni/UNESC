@@ -3,10 +3,11 @@
     <string name="app_name">UNESC</string>
     <string name="hintMatricula">Matrícula</string>
     <string name="hintSenha">Senha</string>
-    <string name="btnEntrar">ENTRAr</string>
+    <string name="btnEntrar">ENTRAR</string>
+    <string name="btnCadastrar">CADASTRAR-se</string>
 
 
-    <!-- Stringd da tela Home -->
+    <!-- String da tela Home -->
     <string name="tvOla">Olá,</string>
     <string name="tvBoasVindas">Bem vindo a UNESC</string>
     <string name="tvNome">Alisson Zanoni</string>
@@ -14,4 +15,11 @@
     <string name="imgProvas">Provas</string>
     <string name="imgAtividades">Atividades</string>
     <string name="imgEventos">Eventos</string>
+
+    <!--Strings da tela de Cadastro    -->
+    <string name="msgheader">Preencha os dados para realizar seu cadastro!</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintSobrenome">Sobrenome</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintCPF">CPF</string>
 </resources>
